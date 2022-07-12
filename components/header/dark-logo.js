@@ -6,7 +6,7 @@ function DarkLogo() {
         <Link href='/'>
             <a className='inline-block align-middle leading-[1]'>
                 <Image
-                    src='/images/logo/logo-2.png'
+                    src='/images/logo/logo-2Demo.png'
                     alt='Logo'
                     width={70}
                     height={70}

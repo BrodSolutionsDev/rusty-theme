@@ -6,7 +6,7 @@ function WhiteLogo() {
         <Link href='/'>
             <a className='inline-block align-middle leading-[1]'>
                 <Image
-                    src='/images/logo/logo.png'
+                    src='/images/logo/logoDemo.png'
                     alt='Logo'
                     width={70}
                     height={70}
