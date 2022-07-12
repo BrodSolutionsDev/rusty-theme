@@ -42,7 +42,6 @@ function About() {
                             quality={70}
                             layout='fixed'
                             objectFit='cover'
-                            priority
                         />
                     </div>
                 </div>

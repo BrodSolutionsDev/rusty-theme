@@ -35,7 +35,6 @@ function Hero({ heroItems }) {
                 layout="fill"
                 objectFit="cover"
                 quality={70}
-                priority
               />
             </div>
             <div className="container custom-container">

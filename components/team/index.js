@@ -33,7 +33,6 @@ function Team({ teamItems }) {
                                                     layout='responsive'
                                                     objectFit='cover'
                                                     quality={70}
-                                                    priority
                                                 />
                                             </a>
                                         </Link>

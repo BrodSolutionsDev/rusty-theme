@@ -58,7 +58,6 @@ function Services({ services }) {
                                 quality={70}
                                 layout='fill'
                                 objectFit='cover'
-                                priority
                             />
                         </div>
                     </div>

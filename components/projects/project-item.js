@@ -20,7 +20,6 @@ function ProjectItem(props) {
                             layout='responsive'
                             objectFit='cover'
                             quality={60}
-                            priority
                         />
                     </div>
                     <div className='project-content'>
